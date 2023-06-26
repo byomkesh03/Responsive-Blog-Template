@@ -60,6 +60,10 @@ Your contributions are highly appreciated! Feel free to improve existing feature
 
 - Inspiration and guidance have been taken from the web development community For making this Multipage Responsive Blog Template Website.
 
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at byomkeshmahato03@gmail.com.
+
 
 ## License
 
