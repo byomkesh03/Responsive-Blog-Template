@@ -21,6 +21,10 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 - Search Functionality: A search option to find specific blogs based on keywords.
 - Responsive Design: The template is built with responsiveness in mind, ensuring an optimal viewing experience on various devices.
 
+## Demo
+
+You can see a live demo of the website [here](https://byomkesh03.github.io/Cheatsheet-Template/).
+
 ## Usage
 
 To use this blog template, follow these steps:
