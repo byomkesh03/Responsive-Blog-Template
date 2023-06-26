@@ -1,5 +1,3 @@
-# Responsive-Blog-Template
-
 
 # Multipage Responsive Blog Template
 
