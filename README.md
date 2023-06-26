@@ -5,7 +5,7 @@ Responsive Blog Template Using HTML, CSS &amp; JAVASCRIPT
 
 # Multipage Responsive Blog Template
 
-This is a multipage responsive blog template built using pure HTML, CSS, and JavaScript. It includes a home page, about page, contact page, and individual blog pages. Each blog page features a proper heading, related image, blog author name, and upload date. Users can search for specific blogs using the search option. The vector credit for the website's graphics goes to Vecteezy.
+This is a multipage responsive blog template built using pure HTML, CSS, and JavaScript. It includes a home page, an about page, a contact page, and individual blog pages. Each blog page features a proper heading, related image, blog author name, and upload date. Users can search for specific blogs using the search option. The vector credit for the website's graphics goes to Vecteezy.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 
 To use this blog template, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/blog-template.git`
+1. Clone the repository: `git clone https://github.com/byomkesh03/Responsive-Blog-Template.git`
 2. Navigate to the project directory: `cd blog-template`
 3. Open the `index.html` file in your preferred web browser.
 
