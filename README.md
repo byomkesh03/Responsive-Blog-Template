@@ -51,6 +51,11 @@ If you want to contribute to this project, follow these steps:
 
 Your contributions are highly appreciated! Feel free to improve existing features, add new features, fix bugs, or suggest enhancements.
 
+## Acknowledgments
+
+- Inspiration and guidance have been taken from the web development community For making this Multipage Responsive Blog Template Website.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
