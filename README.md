@@ -23,7 +23,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 
 ## Demo
 
-You can see a live demo of the website [here](https://byomkesh03.github.io/Cheatsheet-Template/).
+You can see a live demo of the website [here](https://byomkesh03.github.io/Responsive-Blog-Template/).
 
 ## Usage
 
