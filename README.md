@@ -6,7 +6,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 ## Table of Contents
 
 - [Features](#features)
--  [Demo](#Demo)
+- [Demo](#Demo)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
