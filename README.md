@@ -35,6 +35,8 @@ To use this blog template, follow these steps:
 2. Navigate to the project directory: `cd blog-template`
 3. Open the `index.html` file in your preferred web browser.
 
+## Customization
+
 Feel free to modify and customize the template according to your needs. Add your own blog posts, and images, or make any other desired changes to fit your requirements.
 
 ## Installation
