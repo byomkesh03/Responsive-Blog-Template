@@ -15,6 +15,8 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 - [Contact](#Contact)
 - [License](#license)
 
+## Introduction
+
 ## Features
 
 - Home Page: A landing page that showcases featured blog posts and provides links to individual blog pages.
